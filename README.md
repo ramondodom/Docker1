@@ -2,14 +2,15 @@
 docker jenkens k6 sonar added to test
 
 Tools:
-Kubernetes Cluster - container orch
-Docker - runtime
-Jenkins- CICD server
-DockerHub - container reg
-helm - packaging & deploy on k8
-git - version control repo
-Maven - Build Tool
-SonarQube - code analysis server
+
+1. Kubernetes Cluster - container orch
+2. Docker - runtime
+3. Jenkins- CICD server
+4. DockerHub - container reg
+5. helm - packaging & deploy on k8
+6. git - version control repo
+7. Maven - Build Tool
+8. SonarQube - code analysis server
 
 
 ###############################################################
